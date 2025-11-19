@@ -88,6 +88,3 @@ All test cases are located here:
 # 📄 License  
 This project is for academic use only.
 
----
-
-# ✔️ End of README
