@@ -20,3 +20,53 @@ This project follows real software-engineering practices:
 
 # 📁 Repository Structure
 
+---
+
+# ✨ Features
+
+### 👨‍🍳 Employee Portal
+- View assigned shifts  
+- Confirm/decline shifts  
+- Request shift swaps  
+- Edit availability  
+
+### 🧑‍💼 Manager Dashboard
+- Manual scheduling  
+- Auto-schedule workflow  
+- Alerts for unconfirmed shifts  
+- Review shift swap requests  
+- View staff availability  
+
+### 🤖 Auto-Scheduling Engine
+- Uses stored availability  
+- Avoids conflicts  
+- Balances staffing needs  
+- Faster schedule creation  
+
+### 📱 Mobile Responsive
+- Works on phones and tablets  
+
+---
+
+# 🏗️ System Design  
+See Wiki for full details:
+
+- **ER Diagram**  
+- **Data relationship diagram (DRD)**  
+- **System architecture**  
+- **Wireframes**  
+- **Use case diagrams**  
+
+---
+
+# 🧪 Test Cases  
+All test cases are located here:
+
+📄 `/docs/test-cases.md`
+
+---
+
+# 🚀 Getting Started
+
+### 1. Clone the Project
+
